@@ -135,7 +135,8 @@
 
 //15-MASALA
 //let son15=+prompt('sonni kiritng)
-// if(son15<20 && son15>10){
+// if(!
+// 
 //     console.log(true)
 // }else{
 //     console.log(false)
@@ -379,4 +380,127 @@
 
 
 
+
+
+//BOOLEAN-1
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// let num3 = +prompt("sonnni kiritng");
+// if(num1<=num2<=num3){
+//     console.log(true)
+// }else{
+//     console.log(false)
+// }
+
+
+//BOOLEAN-2
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// let num3 = +prompt("sonnni kiritng");
+// if (num1<num2 && num2<num3) {
+//     console.log(true)
+// } else {
+//     console.log(false)
+// }
+
+
+//BOOLEAN-3
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// if (num1%2!=0 && num2%2!=0) {
+//     console.log(true)
+// }else{
+//     console.log(false)
+// }
+
+
+//BOOLEAN-4
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// if (num1%2!=0 || num2%2!=0) {
+//     console.log(true)
+// }else{
+//     console.log(false)
+// }
+
+
+//BOOLEAN-5
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// if ((num1 % 2 != 0 && num2 % 2 == 0) || (num1 % 2 == 0 && num2 % 2 != 0)) {
+//     console.log(true)
+// }else{
+//     console.log(false)
+// }
+
+
+//BOOLEAN-6
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// if (num1%2!=0 && num2%2!=0 || num1%2==0 && num2%2==0) {
+//     console.log(true)
+// }else{
+//     console.log(false)
+// }
+
+
+//BOOLEAN-7
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// let num3 = +prompt("sonnni kiritng");
+// if (num1>0 && num2>0 && num3>0) {
+//     console.log(true)
+// }else{
+//     console.log(false)
+// }
+
+
+//BOOLEAN-8
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// let num3 = +prompt("sonnni kiritng");
+// if (num1 > 0 || num2 > 0 || num3 > 0) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+
+//BOOLEAN-9
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// let num3 = +prompt("sonnni kiritng");
+// if (
+//   (num1 > 0 && num2 < 0 && num3 < 0) ||
+//   (num1 < 0 && num2 > 0 && num3 < 0) ||
+//   (num1 < 0 && num2 < 0 && num3 >0)
+// ) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+
+//BOOLEAN-10
+// let num1 = +prompt("sonnni kiritng");
+// let num2 = +prompt("sonnni kiritng");
+// let num3 = +prompt("sonnni kiritng");
+// if (
+//     (num1 > 0 && num2 > 0 && num3 < 0) ||
+//     (num1 < 0 && num2 > 0 && num3 > 0) ||
+//     (num1 > 0 && num2 < 0 && num3 >0)
+// ) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+
+//BOOLEAN-11
+// let num1 = +prompt("sonnni kiritng");
+// if (num1>10 && num1<100 && num1%2==0) {
+//     console.log(true)
+// }else{
+//     console.log(false)
+// }
 
